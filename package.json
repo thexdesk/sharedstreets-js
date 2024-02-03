@@ -69,8 +69,8 @@
   },
   "dependencies": {
     "@mapbox/sphericalmercator": "^1.1.0",
-    "@oclif/command": "^1.5.13",
-    "@oclif/config": "^1.12.12",
+    "@oclif/command": "^1.8.36",
+    "@oclif/config": "^1.18.17",
     "@oclif/plugin-help": "^2.1.6",
     "@turf/along": "^6.0.1",
     "@turf/bbox": "^6.0.1",
